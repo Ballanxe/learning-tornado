@@ -1,4 +1,4 @@
 
 ## The async Python's framework
 
-#### Snippets for development purposes d
+#### Snippets for development purposes 
