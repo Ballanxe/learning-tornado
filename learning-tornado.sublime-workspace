@@ -1,0 +1,1142 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Boo",
+				"BookEditHandler"
+			],
+			[
+				"word",
+				"word_doc"
+			],
+			[
+				"Re",
+				"RequestHandler"
+			],
+			[
+				"ch",
+				"choice"
+			],
+			[
+				"change",
+				"change_lines"
+			],
+			[
+				"source",
+				"source_map"
+			],
+			[
+				"so",
+				"source_text"
+			],
+			[
+				"ma",
+				"map_by_first_letter"
+			],
+			[
+				"get",
+				"get_argument"
+			],
+			[
+				"htt",
+				"http_server"
+			],
+			[
+				"noun",
+				"noun3"
+			],
+			[
+				"widget",
+				"widget_id"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"brand",
+				"brand_orange"
+			],
+			[
+				"fl",
+				"flex-start\talign-self"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"border",
+				"border-left\tproperty"
+			],
+			[
+				"ne",
+				"next_url"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"atta",
+				"attachment2"
+			],
+			[
+				"pr",
+				"proyect_"
+			],
+			[
+				"mas",
+				"master_priv_key"
+			],
+			[
+				"validated",
+				"validated_data"
+			],
+			[
+				"asset",
+				"asset_to_request"
+			],
+			[
+				"form",
+				"form_class"
+			],
+			[
+				"valida",
+				"validate_unique"
+			],
+			[
+				"inver",
+				"investor_pk"
+			],
+			[
+				"get_ob",
+				"get_object_or_404"
+			],
+			[
+				"l",
+				"LoginRequiredMixin"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"fav",
+				"favCount"
+			],
+			[
+				"is",
+				"is_investor"
+			],
+			[
+				"name",
+				"namespace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "comandos_pymongo.txt",
+			"settings":
+			{
+				"buffer_size": 1175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "comandos_pymongo.txt"
+			}
+		},
+		{
+			"file": "dictionary/src/definitions_readonly.py",
+			"settings":
+			{
+				"buffer_size": 1311,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "burts-book/src/burts_book_db.py",
+			"settings":
+			{
+				"buffer_size": 2615,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "asynchronous-tornado/src/tweet_rate.py",
+			"settings":
+			{
+				"buffer_size": 1422,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "asynchronous-tornado/src/tweet_rate_async.py",
+			"settings":
+			{
+				"buffer_size": 1788,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "asynchronous-tornado/src/tweet_rate_gen.py",
+			"settings":
+			{
+				"buffer_size": 1679,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "live-inventory/src/shopping_cart.py",
+			"settings":
+			{
+				"buffer_size": 3129,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "shopping_cart.py"
+			}
+		},
+		{
+			"file": "live-inventory/src/websockets_shopping_cart.py",
+			"settings":
+			{
+				"buffer_size": 2964,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "secure-tornado/cookie_counter.py",
+			"settings":
+			{
+				"buffer_size": 2701,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "secure-tornado/src/cookie-auth.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "live-inventory/src/static/websocket-inventory.js",
+			"settings":
+			{
+				"buffer_size": 1315,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "live-inventory/src/static/inventory.js",
+			"settings":
+			{
+				"buffer_size": 1250,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tornado-python2.7/src/Introduction-to-Tornado-code-repo/asynchronous_web_services/long_polling/shopping_cart.py",
+			"settings":
+			{
+				"buffer_size": 2242,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "live-inventory/src/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 993,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "burts-book/src/templates/book_edit.html",
+			"settings":
+			{
+				"buffer_size": 770,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "burts-book/src/templates/modules/book.html",
+			"settings":
+			{
+				"buffer_size": 924,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "color",
+		"selected_items":
+		[
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"skin",
+				"UI: Select Skin"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"selec",
+				"UI: Select Theme"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alberto/Documentos/Tuts/tornado",
+		"/home/alberto/Documentos/Tuts/tornado/secure-tornado"
+	],
+	"file_history":
+	[
+		"/home/alberto/Documentos/Tuts/tornado/burts-book/src/main.py",
+		"/home/alberto/Documentos/Tuts/tornado/tornado-python2.7/src/string_service.py",
+		"/home/alberto/Documentos/Tuts/tornado/tornado-python2.7/src/templates/poem.html",
+		"/home/alberto/Documentos/Tuts/tornado/tornado-python2.7/src/templates/index.html",
+		"/home/alberto/Documentos/Tuts/tornado/the-alpha-munger/src/static/style.css",
+		"/home/alberto/Documentos/Tuts/tornado/the-alpha-munger/src/templates/munged.html",
+		"/home/alberto/Documentos/Tuts/tornado/the-alpha-munger/src/templates/index.html",
+		"/home/alberto/Documentos/Tuts/tornado/the-alpha-munger/src/main.py",
+		"/home/alberto/Documentos/Tuts/tornado/tornado-python2.7/src/templates-poemmaker.py",
+		"/home/alberto/Documentos/Tuts/tornado/burts-book/src/templates/modules/book.html",
+		"/home/alberto/Documentos/Tuts/tornado/burts-book/src/templates/recomended.html",
+		"/home/alberto/Documentos/Tuts/tornado/burts-book/src/hello_module.py",
+		"/home/alberto/Documentos/Tuts/tornado/burts-book/src/templates/main.html",
+		"/home/alberto/Documentos/Tuts/tornado/tornado-python2.7/src/hello.py",
+		"/home/alberto/Documentos/TIMG/fatura electronica/proyecto/src/facturas/hello.py",
+		"/home/alberto/Documentos/Tuts/tornado/burts-book/src/templates/index.html",
+		"/home/alberto/.config/sublime-text-3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/templates/snippets/dashboard_sidebar.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/templates/snippets/pagination.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/templates/snippets/blog-search-input.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/blog/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/templates/snippets/blog_sidebar.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/authtools/urls.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/templates/registration/login_view.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/templates/registration/registration_view.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/authtools/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/templates/snippets/login_modal.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/rinconegocios/urls.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/companies/templates/affiliates_detail.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/static/scss/styles.scss",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/blog/templates/blog_main.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/templates/snippets/header.html",
+		"/media/alberto/Seagate Backup Plus Drive/Alberto/Documents/3. Proyectos WEb/Python/Django/Two Scoops of Django 1.11/Two Scoop Utils/redirect_last_page_after_login_snippet.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/blog/templates/blog-base.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/authtools/forms.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/services/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/services/templates/service_create.html",
+		"/home/alberto/Documentos/Devs/pegaso_gitlab/src/advertisements/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/companies/validators.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/services/templates/services_detail.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/rinconegocios/settings/__init__.py",
+		"/media/alberto/Seagate Backup Plus Drive/Alberto/Documents/3. Proyectos WEb/Python/Django/Beginning Django/beggining_django_notes.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/companies/views.py",
+		"/home/alberto/.zshrc",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/django/contrib/auth/forms.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/authtools/forms.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/templates/base.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/django/views/generic/base.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/companies/forms.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/companies/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/services/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/django-authtools/authtools/views.py",
+		"/home/alberto/Documentos/Devs/pegaso/place_autocomplete.txt",
+		"/home/alberto/Documentos/Devs/pegaso/src/gulpfile.js",
+		"/home/alberto/Documentos/Devs/pegaso/coins_supported_by_blockcypher.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/.gitignore",
+		"/home/alberto/Documentos/Devs/pegaso/create_test_master_wallet.py",
+		"/home/alberto/Documentos/Devs/pegaso/bip32_wallets_documentation.txt",
+		"/media/alberto/Seagate Backup Plus Drive/Alberto/Documents/3. Proyectos WEb/Utilidades/comandos.txt",
+		"/media/alberto/Seagate Backup Plus Drive/Alberto/Documents/3. Proyectos WEb/Utilidades/blockcypher_NOTES.py",
+		"/media/alberto/Seagate Backup Plus Drive/Alberto/Documents/3. Proyectos WEb/Python/Django/Two Scoops of Django 1.11/Two Scoop Utils/django_websockets_chat_example.py",
+		"/home/alberto/Documentos/Devs/pegaso/python_library_for_creating_bitcoin_wallets.txt",
+		"/home/alberto/Documentos/Devs/pegaso/bitcoin_math.txt",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/authtools/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/allauth/account/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/accounts/api/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/companies/api/renderers.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/rest_framework/mixins.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/django/views/generic/edit.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/rinconegocios/settings/base.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/allauth/account/forms.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/companies/api/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/companies/api/serializers.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/accounts/api/serializers.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/companies/api/urls.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/companies/api/__init__.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/core/renderers.py",
+		"/media/alberto/Seagate Backup Plus Drive/Alberto/Documents/3. Proyectos WEb/Python/Django/Two Scoops of Django 1.11/Two Scoop Utils/Django_REST_ViewSets.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/utils/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/tarfile.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/babel/core.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/node_modules/negotiator/index.js",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/languages/fields.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/django_countries/__init__.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/django_countries/fields.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/django/contrib/admin/helpers.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/languages/languages.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/accounts/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/accounts/api/renderers.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/django/contrib/auth/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/authtools/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/django-authtools/authtools/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/authtools/context_processors.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/django-authtools/authtools/forms.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/authtools/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/babel/messages/catalog.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/deals/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/core/exceptions.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/django/contrib/auth/base_user.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/django/db/models/fields/__init__.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/allauth/account/auth_backends.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/allauth/account/adapter.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/gunicorn/config.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/django-authtools/tests/tests/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/accounts/api/urls.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/accounts/api/backends.py",
+		"/home/alberto/Escritorio/respuesta oferta duglanis.txt",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/deals/templates/capital_deal_detail.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/deals/templates/capital_buyer_deal_list.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/accounts/api/__init__.py",
+		"/media/alberto/Seagate Backup Plus Drive/Alberto/Documents/3. Proyectos WEb/Utilidades/django-api-commands.txt",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/investors/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/investors/templates/investor_detail.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/investors/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/assets/templates/capital_asset_list.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/deals/templates/capital_deal_investor_detail.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/deals/models.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/deals/templates/capital_seller_deal_list.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/lib/python3.6/site-packages/django/contrib/auth/mixins.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/investors/forms.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/accounts/views.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/accounts/urls.py",
+		"/media/alberto/Seagate Backup Plus Drive/Alberto/Documents/3. Proyectos WEb/Python/Django/Beginning Django/NOTAS.txt",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/deals/admin.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/assets/templates/capital_asset_private_list.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/assets/templates/capital_asset_update.html",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/assets/forms.py",
+		"/home/alberto/Documentos/Devs/rinconegocios/src/assets/templates/capital_asset_confirm_delete.html"
+	],
+	"find":
+	{
+		"height": 61.8181818182
+	},
+	"find_in_files":
+	{
+		"height": 172.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"script",
+			"-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/alberto/Documentos/Tuts/tornado"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "comandos_pymongo.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1037,
+								1037
+							]
+						],
+						"settings":
+						{
+							"auto_name": "comandos_pymongo.txt",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 930.909090909,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dictionary/src/definitions_readonly.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1106,
+								1106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "burts-book/src/burts_book_db.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1631,
+								1631
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "asynchronous-tornado/src/tweet_rate.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1160,
+								1160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 550.909090909,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "asynchronous-tornado/src/tweet_rate_async.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1788,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1788,
+								1788
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 525.454545455,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "asynchronous-tornado/src/tweet_rate_gen.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								422,
+								422
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "live-inventory/src/shopping_cart.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3129,
+								3129
+							]
+						],
+						"settings":
+						{
+							"auto_name": "shopping_cart.py",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "live-inventory/src/websockets_shopping_cart.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2964,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2760.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "secure-tornado/cookie_counter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2373,
+								2373
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2915.45454545,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "secure-tornado/src/cookie-auth.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "live-inventory/src/static/websocket-inventory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1315,
+								1315
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "live-inventory/src/static/inventory.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1250,
+								1250
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "tornado-python2.7/src/Introduction-to-Tornado-code-repo/asynchronous_web_services/long_polling/shopping_cart.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2242,
+								2242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "live-inventory/src/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "burts-book/src/templates/book_edit.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								770,
+								770
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "burts-book/src/templates/modules/book.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								924,
+								924
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 161.818181818,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.9090909091
+	},
+	"input":
+	{
+		"height": 61.8181818182
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 58.1818181818
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documentos/sublime_projects/network_solutions.sublime-project"
+			],
+			[
+				"rinc",
+				"~/Documentos/sublime_projects/rinconegocios.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,15 @@
+<div class="book" style="overflow: auto">
+	<h3 class="book_title">{{ book["title"] }}</h3>
+	{% if book["subtitle"] %}
+		<h4 class="book_subtitle">{{ book["subtitle"] }}</h4>
+	{% end %}
+	<img src="{{ book['image'] }}" class="book_image">
+	<div class="book_details">
+		<div class="book_date_released">Released: {{ book["date_released"]}}</div>
+		<!-- relative=False will cause it to return an absolute time instead (in hoursand minutes), whereas full_format=True will make it display a full date with month, day, year, and time (for instance, July 9, 2011 at 9:47 pm ), which can be paired with shorter=True to hide the time, and display only month, day, and year. -->
+		<div class="book_date_added">Added: {{ locale.format_date(book['date_added'], relative=False) }}</div>
+		<h5>Description:</h5>
+		<div class="book_body">{% raw book['description'] %}</div>
+		<p><a href="/edit/{{ book['isbn'] }}">Edit</a></p>
+	</div>
+</div>

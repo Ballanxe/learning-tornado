@@ -1,0 +1,46 @@
+comandos_pymongo.txt
+
+client = MongoClient('localhost', 27017) --> Connect to database
+
+conn = pymongo.MongoClient("mongodb://user:password@staff.mongohq.com:10066/your_mongohq_db")
+
+>>> db = conn.example
+db = conn['example'] ---> Creates a collection if it doesnt exist
+
+db.collection_names() ---> Show the lists of connections
+
+db = conn.widgets ---> Creates a collection named widget
+
+widgets.insert({"name": "flibnip", "description": "grade-A industrial flibnip", »
+"quantity": 3}) ---> Inserts a document in that collection
+
+widgets.find_one({"name": "flibnip"}) --> Find a element with a particular description
+
+
+---- CHANGING VALUES IN THE COLLECTION ---
+>>> doc = widgets.find_one({"name": "flibnip"})
+>>> doc['quantity'] = 4
+>>> db.widgets.save(doc)
+>>> db.widgets.find_one({"name": "flibnip"})
+
+
+---- FINDING ITEMS THAT BY CARACTERISTICS ---
+>>> for doc in widgets.find({"quantity": 4}):
+...
+print doc
+
+--- REMOVE ITEMS ---
+
+widgets.remove({"name": "flibnip"})
+
+--- LISTING ALL DOCUMENTS ---
+
+>>> for doc in widgets.find():
+...
+print doc
+
+--- DUMP IN JSON ---
+>>> doc = db.widgets.find_one({"name": "flibnip"})
+>>> import json
+>>> del doc["_id"]
+>>> json.dumps(doc)
